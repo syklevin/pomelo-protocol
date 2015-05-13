@@ -1,0 +1,21 @@
+{
+  "name": "pomelo-protocol",
+  "main": "lib/protocol.js",
+  "version": "0.1.4",
+  "homepage": "https://github.com/syklevin/pomelo-protocol",
+  "authors": [
+  ],
+  "description": "pomelo-protocol",
+  "keywords": [
+    "pomelo",
+    "protocol"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
